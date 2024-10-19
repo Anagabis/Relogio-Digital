@@ -20,7 +20,7 @@ Um projeto de relógio digital desenvolvido com HTML, CSS e JavaScript. Exibe a 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/relogio-digital.git
+   git clone https://github.com/anagabis/relogio-digital.git
    cd Relogio-Digital
 
 ## 📁 Estrutura do Projeto
